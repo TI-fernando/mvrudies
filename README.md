@@ -29,7 +29,7 @@
      <a href="mailto:marcos.rudies@live.com"target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blanck"></a>
     
 
-![Snake animation](https://github.com/mvrudies/mvrudies/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TI-fernando/TI-fernando/blob/output/github-contribution-grid-snake.svg)
     
 </div>  
     
